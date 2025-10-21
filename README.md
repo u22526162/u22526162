@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Amadeus
 
+Computer science student passionate about coding and interested in full-stack software development.
 
 ### Tech Stack
 
